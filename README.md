@@ -9,7 +9,7 @@
 Анализ результатов тестирования веб-сервиса представлен в документе [Report.md](https://github.com/AlexeyVFrolov/QA-Diploma/blob/master/documentation/Report.md)
 
 ## **Итоги проекта**
-Оценка результатов проекта: соответствие фактического объема работ запланированному, реализация рисков, выполнение календарного плана, а также анализ причин отклонений  представлены в документе [Summary.md](https://github.com/AlexeyVFrolov/QA-Diploma/blob/master/documentation/Report.md)
+Оценка результатов проекта: соответствие фактического объема работ запланированному, реализация рисков, выполнение календарного плана, а также анализ причин отклонений  представлены в документе [Summary.md](https://github.com/AlexeyVFrolov/QA-Diploma/blob/master/documentation/Summary.md)
 
 ## **Инструкция по запуску тестов**
 
